@@ -1,4 +1,9 @@
 body {
 	background-color: black;
-	color: red;
+	color: #1F1F1F;
+}
+h1{
+	text-align:center;
+	background-color: yellow;
+	
 }
