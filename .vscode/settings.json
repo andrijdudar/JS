@@ -1,4 +1,5 @@
 {
 	"commentTranslate.targetLanguage": "en",
-	"commentTranslate.hover.enabled": true
+	"commentTranslate.hover.enabled": true,
+	"vscodeGoogleTranslate.preferredLanguage": "English"
 }
