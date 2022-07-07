@@ -1,6 +1,10 @@
-let fruit = [`Apple`, `Orange`, `Plum`];
-document.write(fruit[1]);
-fruit[1] = `Pear`;
-document.write(fruit[1]);
-console.log(fruit[4]);
-dw
+'use strict';
+
+
+//let users = [
+//	{ age: 19, name: `John` },
+//	{ age: 18, name: `Pete` },
+//	{ age: 17, name: `Mary` },
+//];
+//let user = users.find(item => item.age == 19);
+//alert(user.name);
