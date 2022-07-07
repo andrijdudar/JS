@@ -1,9 +1,13 @@
 
 body {
 	background-color: black;
-	color: #1F1F1F;
+	color: red;
+	text-align:center;
+	font-size:26px ;
 }
 h1{
 	text-align:center;
 	background-color: yellow;
+	color: #1F1F1F;
+	font-size: 32px;
 }
