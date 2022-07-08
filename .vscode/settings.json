@@ -5,5 +5,7 @@
 	"githubPullRequests.ignoredPullRequestBranches": [
 		"main"
 	],
-	"commentTranslate.source": "Bing"
+	"commentTranslate.source": "Bing",
+	"commentTranslate.hover.enabled": true,
+	"commentTranslate.targetLanguage": "uk"
 }

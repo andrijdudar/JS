@@ -1,10 +1,9 @@
-'use strict';
-
-
-//let users = [
-//	{ age: 19, name: `John` },
-//	{ age: 18, name: `Pete` },
-//	{ age: 17, name: `Mary` },
-//];
-//let user = users.find(item => item.age == 19);
-//alert(user.name);
+function compareNumeric(a, b) {
+	if (a > b) return 1;
+	if (a == b) return 0;
+	if (a < b) return -1;
+}
+let arr = [0, 1, -2, 2, 4, 8, `test`, 7, 17, 16, 15,];
+arr.sort(compareNumeric);
+alert(arr);
+let = () => { };
